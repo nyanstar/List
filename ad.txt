@@ -1,6 +1,12 @@
+
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(3)
+
 naver.com###NM_INT_LEFT
 naver.com###rtk
 naver.com###timesquare
 naver.com###footer > div.footer_inner
+
+gall.dcinside.com###container > section.right_content:nth-child(3)
+gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
