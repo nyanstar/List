@@ -1,12 +1,24 @@
-
+! 나무위키 최근변경, 나무라이브
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(3)
 
+! 네이버 PC 시작페이지
 naver.com###NM_INT_LEFT
 naver.com###rtk
 naver.com###timesquare
 naver.com###footer > div.footer_inner
 
+! 디시인사이드
 gall.dcinside.com###container > section.right_content:nth-child(3)
 gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
 gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
+
+gall.dcinside.com###container > section.right_content:nth-child(3)
+gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
+
+! 알리익스프레스 메신저봇
+trade.aliexpress.com###J_xiaomi_dialog
+
+! 트위치 채널추천 자동재생
+twitch.tv###root > div.tw-absolute.tw-bottom-0.tw-flex.tw-flex-column.tw-flex-nowrap.tw-left-0.tw-overflow-hidden.tw-right-0.tw-top-0 > div.tw-flex.tw-flex-column.tw-flex-nowrap.tw-full-height:nth-child(2) > div.tw-flex.tw-flex-nowrap.tw-full-height.tw-overflow-hidden.tw-relative:last-child > main.tw-flex.tw-flex-column.tw-flex-grow-1.tw-full-height.tw-full-width.tw-overflow-hidden.tw-relative.tw-z-default.twilight-main:nth-child(2) > div.root-scrollable.scrollable-area.scrollable-area--suppress-scroll-x:nth-child(2) > div.simplebar-scroll-content:last-child > div.simplebar-content.root-scrollable__content > div.root-scrollable__wrapper.tw-full-width.tw-relative > div.tw-full-height > div.front-page-carousel.tw-pd-t-2.tw-pd-x-3:first-child
