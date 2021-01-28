@@ -1,14 +1,11 @@
-! 나무위키 최근변경, 나무라이브
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(3)
 
-! 네이버 PC 시작페이지
 naver.com###NM_INT_LEFT
 naver.com###rtk
 naver.com###timesquare
 naver.com###footer > div.footer_inner
 
-! 디시인사이드
 gall.dcinside.com###container > section.right_content:nth-child(3)
 gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
 gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
@@ -17,5 +14,14 @@ gall.dcinside.com###container > section.right_content:nth-child(3)
 gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
 gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
 
-! 알리익스프레스 메신저봇
 trade.aliexpress.com###J_xiaomi_dialog
+
+m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.hot_tag:nth-child(3)
+m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsList_new:nth-child(7)
+m.ppomppu.co.kr###wrap > section.community-board:last-child
+
+ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(13)
+ppomppu.co.kr##div.wrapper:nth-child(2) > div.sidebar:first-child > div.floating-banner
+ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(7)
+
+ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:last-child > div.container.main:nth-child(3)
