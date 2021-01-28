@@ -23,5 +23,9 @@ m.ppomppu.co.kr###wrap > section.community-board:last-child
 ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(13)
 ppomppu.co.kr##div.wrapper:nth-child(2) > div.sidebar:first-child > div.floating-banner
 ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(7)
+ppomppu.co.kr###header_box
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(7)
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.sidebar:first-child > div.floating-banner
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(13)
 
 ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:last-child > div.container.main:nth-child(3)
