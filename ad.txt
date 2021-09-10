@@ -38,3 +38,5 @@ naver.com###NM_INT_LEFT
 naver.com###NM_WEATHER
 naver.com###timesquare
 naver.com###footer > div.footer_inner
+m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div.brick-vowel:first-child
+m.naver.com###HOME_SHORTCUT
