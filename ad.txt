@@ -1,31 +1,40 @@
-namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
-namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(3)
+// 실베,개념글,힛갤,뉴스,위키
+gall.dcinside.com###container > section.right_content:nth-child(3) > article:nth-child(8)
+gall.dcinside.com###container > section.right_content:nth-child(3) > article:nth-child(9)
+gall.dcinside.com###container > section.right_content:nth-child(3) > article:nth-child(10)
+gall.dcinside.com###container > section.right_content:nth-child(3) > article:nth-child(11)
+gall.dcinside.com###container > section.right_content:nth-child(3) > article:nth-child(12)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(8)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(9)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(10)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(11)
+gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(12)
+// 사용자수, 하단
+gall.dcinside.com###top > div.gnb_bar:nth-child(2) > nav.gnb.clear > div.gall_exposure:last-child
+gall.dcinside.com###top > footer.dcfoot.type1:last-child > div.dc_all:nth-child(2) > div.all_box > div.all_list:first-child
 
-naver.com###NM_INT_LEFT
-naver.com###rtk
-naver.com###timesquare
-naver.com###footer > div.footer_inner
-
-gall.dcinside.com###container > section.right_content:nth-child(3)
-gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
-gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
-
-gall.dcinside.com###container > section.right_content:nth-child(3)
-gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2)
-gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2)
-
-trade.aliexpress.com###J_xiaomi_dialog
-
+//쇼핑포럼, 핫딜, 인기검색어
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge.hotdeal:nth-child(13)
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(15)
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(8)
 m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.hot_tag:nth-child(3)
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsList_new:nth-child(7)
+m.ppomppu.co.kr###bbs_inform > ul > li.bbs_ad1
+m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(7)
+m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(5) > li.none-border
+//메인화면
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.left:nth-child(3)
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.right:nth-child(4) > div.board-preview.board-ppomppu:last-child
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.bottom:last-child
+m.ppomppu.co.kr###mainList > ul:first-child
 m.ppomppu.co.kr###wrap > section.community-board:last-child
 
-ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(13)
-ppomppu.co.kr##div.wrapper:nth-child(2) > div.sidebar:first-child > div.floating-banner
-ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(7)
-ppomppu.co.kr###header_box
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(7)
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.sidebar:first-child > div.floating-banner
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(13)
+//측면, 하단
+namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
+namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > article:last-child > footer:last-child > p
+namu.wiki###tchika77c19553
 
-ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:last-child > div.container.main:nth-child(3)
+//메인화면
+naver.com###NM_INT_LEFT
+naver.com###NM_WEATHER
+naver.com###timesquare
+naver.com###footer > div.footer_inner
