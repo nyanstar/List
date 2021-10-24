@@ -20,7 +20,7 @@ ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.contai
 m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.hot_tag:nth-child(3)
 m.ppomppu.co.kr###bbs_inform > ul > li.bbs_ad1
 m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(7)
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(5) > li.none-border
+m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(5)
 //메인화면
 ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.left:nth-child(3)
 ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.right:nth-child(4) > div.board-preview.board-ppomppu:last-child
@@ -30,8 +30,8 @@ m.ppomppu.co.kr###wrap > section.community-board:last-child
 
 //측면, 하단
 namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
-namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > article:last-child > footer:last-child > p
-namu.wiki###tchika77c19553
+arca.live##div.root-container:first-child > div.content-wrapper.clearfix:nth-child(3) > aside.right-sidebar:first-child
+namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(3)
 
 //메인화면
 naver.com###NM_INT_LEFT
