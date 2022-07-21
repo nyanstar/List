@@ -12,27 +12,10 @@ gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > artic
 // 사용자수, 하단
 gall.dcinside.com###top > div.gnb_bar:nth-child(2) > nav.gnb.clear > div.gall_exposure:last-child
 gall.dcinside.com###top > footer.dcfoot.type1:last-child > div.dc_all:nth-child(2) > div.all_box > div.all_list:first-child
+// 모바일 실베 AD
+m.dcinside.com###recom_box1
+m.dcinside.com##div.container:nth-child(4) > div.sec-wrap-sub > div.brick-wid > section.gall-lst-group.grid:nth-child(3) > ul.detail-top-lst:nth-child(3) > li:nth-child(3) > div.detail-top-lnk
 
-//쇼핑포럼, 핫딜, 인기검색어
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge.hotdeal:nth-child(13)
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.bridge:nth-child(15)
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(8)
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.hot_tag:nth-child(3)
-m.ppomppu.co.kr###bbs_inform > ul > li.bbs_ad1
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(7)
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(5) > ul.bbsList_new:nth-child(5)
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsList_new:nth-child(5)
-//메인화면
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.left:nth-child(3)
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.right:nth-child(4) > div.board-preview.board-ppomppu:last-child
-ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:last-child > div.container.main:nth-child(6) > div.bottom:last-child
-m.ppomppu.co.kr###mainList > ul:first-child
-m.ppomppu.co.kr###wrap > section.community-board:last-child
-
-//측면, 하단
-namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(2) > aside:first-child
-arca.live##div.root-container:first-child > div.content-wrapper.clearfix:nth-child(3) > aside.right-sidebar:first-child
-namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > div:nth-child(3)
 
 //메인화면
 naver.com###NM_INT_LEFT
@@ -45,3 +28,5 @@ m.naver.com###HOME_SHORTCUT
 //탐색
 youtube.com###items > ytd-mini-guide-entry-renderer.style-scope.ytd-mini-guide-renderer:nth-child(2)
 youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:nth-child(2)
+youtube.com###items > ytd-mini-guide-entry-renderer.style-scope.ytd-mini-guide-renderer:nth-child(3)
+youtube.com###items > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer:nth-child(3)
