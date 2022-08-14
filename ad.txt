@@ -41,6 +41,8 @@ m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsLis
 m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsList_new:nth-child(5)
 m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.hot_tag:nth-child(3)
 m.ppomppu.co.kr###bbs_inform > ul > li.bbs_ad1
+m.ppomppu.co.kr###wrap > div.ct:nth-child(17) > div.bbs.view:last-child > div.together_goods:nth-child(5)
+m.ppomppu.co.kr###wrap > div.ct:nth-child(17) > div.bbs.view:last-child > div.outside_hot:nth-child(5)
 ppomppu.co.kr##div.wrapper:nth-child(2) > div.contents:nth-child(2) > div.container:last-child > div:first-child > div.hot_tag:nth-child(8)
 ppomppu.co.kr###page_show_noti_1
 ppomppu.co.kr###revolution_main_table > tbody:last-child > tr.list1:nth-child(48)
