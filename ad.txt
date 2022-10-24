@@ -24,6 +24,7 @@ gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > artic
 gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(11)
 gall.dcinside.com###bottom_listwrap > section.right_content:nth-child(2) > article:nth-child(12)
 gall.dcinside.com###container > section.right_content:nth-child(3) > article:nth-child(7) > div.content_box.r_timebest
+gall.dcinside.com###container > section.left_content:first-child > article:nth-child(2) > div.issue_wrap:last-child
 // 사용자수, 하단
 gall.dcinside.com###top > div.gnb_bar:nth-child(2) > nav.gnb.clear > div.gall_exposure:last-child
 gall.dcinside.com###top > footer.dcfoot.type1:last-child > div.dc_all:nth-child(2) > div.all_box > div.all_list:first-child
