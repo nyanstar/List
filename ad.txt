@@ -37,6 +37,10 @@ m.dcinside.com##div.container:nth-child(4) > div.sec-wrap-sub > div.brick-wid > 
 m.dcinside.com##div.container:nth-child(4) > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(8)
 m.dcinside.com##div.container:nth-child(4) > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(9)
 
+m.dcinside.com##div.container:nth-child(5) > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(8)
+m.dcinside.com##div.container:nth-child(5) > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(9)
+
+
 
 //메인화면
 m.ppomppu.co.kr###mainList > ul:first-child
