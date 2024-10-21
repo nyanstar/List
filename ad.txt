@@ -62,6 +62,8 @@ ppomppu.co.kr###revolution_main_table > tbody:last-child > tr.list0:nth-child(50
 ppomppu.co.kr###revolution_main_table > tbody:last-child > tr.list1:nth-child(52)
 ppomppu.co.kr###revolution_main_table > tbody:last-child > tr.list0:nth-child(54)
 ppomppu.co.kr###revolution_main_table > tbody:last-child > tr.list1:nth-child(56)
+
+namu.wiki###app > div.JjUBKi6\+.Wf-zGyGO:first-child > div.rDezY85y.J7ubXtGX:nth-child(2) > div._2w9WpPFk > div.pTEYR4lX.tUkcne2b:nth-child(5)
 m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsList:nth-child(6)
 ppomppu.co.kr##.outside_hot
 
