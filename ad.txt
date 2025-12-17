@@ -9,10 +9,10 @@ m.naver.com###MM_search_container > div.grid1_wrap.brick-house:first-child > div
 m.naver.com###HOME_SHORTCUT
 
 
-namu.wiki###app > div.JjUBKi6\+.Wf-zGyGO:first-child > div.rDezY85y.J7ubXtGX:nth-child(2) > div._2w9WpPFk > div.pTEYR4lX.tUkcne2b:nth-child(5)
-m.ppomppu.co.kr###wrap > div.ct:nth-child(13) > div.bbs:nth-child(6) > ul.bbsList:nth-child(6)
-ppomppu.co.kr##.outside_hot
-
 //사이드바
 arca.live##div.root-container:nth-child(3) > div.content-wrapper.clearfix:nth-child(3) > aside.sidebar.right-sidebar:last-child
 arca.live##div.root-container:nth-child(2) > div.content-wrapper.clearfix:nth-child(3) > aside.sidebar.right-sidebar:last-child
+
+
+//google.com
+google.com###_Ts5CadHjJsfO2roPiMGWsAM_29 > a.C6AK7c.wbH0pd:last-child
